@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/TUserInterface.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/TUserInterface.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/TWorker.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/TWorker.h" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/WorkerInfo.cpp" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/WorkerInfo.h" charset="windows-1251" />
+  </component>
+</project>

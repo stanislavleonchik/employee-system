@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ControlFace/CLionProjects/TW/TUserInterface.cpp
+stdafx.h
+C:/Users/ControlFace/CLionProjects/TW/stdafx.h
+TUserInterface.h
+C:/Users/ControlFace/CLionProjects/TW/TUserInterface.h
+WorkerInfo.h
+C:/Users/ControlFace/CLionProjects/TW/WorkerInfo.h
+TWorker.h
+C:/Users/ControlFace/CLionProjects/TW/TWorker.h
+
+C:/Users/ControlFace/CLionProjects/TW/TUserInterface.h
+stdafx.h
+C:/Users/ControlFace/CLionProjects/TW/stdafx.h
+TWorker.h
+C:/Users/ControlFace/CLionProjects/TW/TWorker.h
+
+C:/Users/ControlFace/CLionProjects/TW/TWorker.h
+
+C:/Users/ControlFace/CLionProjects/TW/WorkerInfo.h
+TWorker.h
+C:/Users/ControlFace/CLionProjects/TW/TWorker.h
+
+C:/Users/ControlFace/CLionProjects/TW/stdafx.h
+targetver.h
+C:/Users/ControlFace/CLionProjects/TW/targetver.h
+stdio.h
+-
+tchar.h
+-
+iostream
+-
+
+C:/Users/ControlFace/CLionProjects/TW/targetver.h
+SDKDDKVer.h
+-
+
